@@ -95,7 +95,7 @@ public class calenderClient {
 		// The app is typically the ear name
 		final String appName = "";
 		// This is the module name of the deployed EJBs on the server
-		final String moduleName = "Calendar";
+		final String moduleName = "Calendar_Rest";
 		final String distinctName = "";
 		// The EJB name which by default is the simple class name of the bean // implementation class
 		final String beanName = Cal.class.getSimpleName();
